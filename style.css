@@ -50,7 +50,7 @@ ul li a:hover {
 
 .body::before {
     content: "";
-    background: url(./website/images/bg2.jpg) no-repeat center center/cover;
+    background: url(./images/bg2.jpg) no-repeat center center/cover;
     position: absolute;
     height: 58%;
     width: 100%;
@@ -140,7 +140,7 @@ ul li a:hover {
 .client::before {
     content: " ";
     position: absolute;
-    background: url(./website/images/bg3.jpg) no-repeat center center/cover;
+    background: url(./images/bg3.jpg) no-repeat center center/cover;
     height: 386px;
     width: 100%;
     z-index: -1;
@@ -181,7 +181,7 @@ ul li a:hover {
 .contact-box::before {
     content: " ";
     position: absolute;
-    background: url(./website/images/bg1.jpg) no-repeat center center/cover;
+    background: url(./images/bg1.jpg) no-repeat center center/cover;
     height: 550px;
     width: 100%;
     z-index: -1;
